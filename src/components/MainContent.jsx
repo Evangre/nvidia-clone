@@ -17,7 +17,7 @@ const MainContent = () => {
           suscipit quis eveniet ex sunt pariatur, sapiente eaque minus id
           accusamus perferendis ad impedit soluta aperiam.
         </p>
-        <button className="mx-16 mt-8 bg-green-500 hover:bg-green-800 rounded p-3 text-white font-open-sans">
+        <button className="mx-16 mt-8 bg-green-600 hover:bg-green-800 rounded p-3 text-white font-open-sans">
           Learn more
         </button>
       </div>
