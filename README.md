@@ -29,29 +29,29 @@ To install this project on your local machine, follow these steps:
 
 1. Clone the repository:
 
-\```bash
+bash
 git clone https://github.com/evangre/nvidia-website-clone.git
-\```
+
 
 2. Change to the project directory:
 
-\```bash
+bash
 cd nvidia-website-clone
-\```
+
 
 3. Install the required dependencies:
 
-\```bash
+bash
 npm install
-\```
+
 
 ## Usage
 
 To start the development server, run:
 
-\```bash
+bash
 npm start
-\```
+
 
 The application will open in your default web browser at `http://localhost:3000`.
 
